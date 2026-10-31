@@ -1,0 +1,80 @@
+ORBIT — BETA SOFTWARE LICENSE AGREEMENT (EULA)
+Copyright (c) 2026 Orbit. All rights reserved.
+Licensor: Luca Kenji Rivadeneyra-Uriu (GitHub: l-rivadeneyra-u).
+
+This is a legal agreement between you and the Licensor for the Orbit
+application ("Orbit"). By installing or using Orbit you accept these terms.
+If you do not accept them, do not install or use Orbit.
+
+1. BETA, EVALUATION USE
+   Orbit is pre-release beta software provided free of charge for your
+   personal evaluation only. The Licensor grants you a personal,
+   non-exclusive, non-transferable, revocable license to install and run
+   one copy of the Orbit binary on a Mac you own or control, for the
+   duration of the beta.
+
+2. RESTRICTIONS
+   You may not, in whole or in part:
+   - copy (except one backup), redistribute, sell, rent, lease,
+     sublicense, publish, or make Orbit available to any third party;
+   - reverse engineer, decompile, disassemble, or otherwise attempt to
+     derive or extract the source code, except to the extent this
+     restriction is prohibited by applicable law;
+   - remove or alter any proprietary notices, or use the Orbit name,
+     logo, or icon except to refer to the software.
+
+3. OWNERSHIP
+   Orbit is licensed, not sold. The Licensor retains all right, title,
+   and interest in and to Orbit, including all intellectual property
+   rights. No rights are granted except those expressly stated here.
+
+4. YOUR DATA
+   Orbit stores your journal and settings locally on your device. The
+   Licensor does not collect or receive your trading data. Features you
+   configure (such as broker sync or an AI assistant) send data directly
+   from your device to the third-party service you choose, under that
+   service's own terms; you are responsible for any keys you provide.
+
+5. NOT FINANCIAL ADVICE
+   Orbit is a journaling and analysis tool. Nothing in Orbit is financial,
+   investment, tax, or trading advice. All figures, statistics, and model
+   outputs are for informational purposes only. Trading involves risk of
+   loss. You are solely responsible for your decisions.
+
+6. NO WARRANTY
+   ORBIT IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND NON-INFRINGEMENT. BEING
+   BETA, ORBIT MAY CONTAIN DEFECTS OR CHANGE OR STOP WORKING AT ANY TIME.
+
+7. LIMITATION OF LIABILITY
+   TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR SHALL NOT BE LIABLE
+   FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE
+   DAMAGES, OR ANY LOSS OF PROFITS, DATA, OR TRADING LOSSES, ARISING OUT OF
+   OR RELATED TO ORBIT. THE LICENSOR'S TOTAL LIABILITY SHALL NOT EXCEED
+   USD 50 OR THE AMOUNT YOU PAID FOR ORBIT, WHICHEVER IS GREATER.
+
+8. BETA TERM AND FUTURE VERSIONS
+   The Licensor may change, suspend, or end the beta at any time, and may
+   release future versions as paid products. This license covers only the
+   beta build you received and grants no right to any future version.
+
+9. TERMINATION
+   This license ends automatically if you breach it, or when the beta ends.
+   On termination you must stop using Orbit and delete all copies of the
+   binary. Sections 3-7 survive termination.
+
+10. THIRD-PARTY COMPONENTS
+    Orbit is built with Electron and Chromium and may include other
+    third-party open-source components, each licensed under its own terms,
+    which continue to apply to those components and prevail over this
+    agreement for them. Electron and Chromium are distributed under their
+    respective licenses (Electron: MIT; Chromium: BSD-3-Clause and others).
+    Notices for bundled components are available on request.
+
+11. GENERAL
+    If any provision is unenforceable, the rest remains in effect. This is
+    the entire agreement regarding Orbit beta and supersedes prior
+    understandings.
+
+Contact: l-rivadeneyra-u on GitHub.
