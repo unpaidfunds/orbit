@@ -13,7 +13,7 @@ A trading journal for the Mac. Import your trades from a CSV or sync them from T
 
 *Screenshots use sample data.*
 
-**[Download for macOS (Apple Silicon)](https://github.com/unpaidfunds/orbit/releases/latest/download/Orbit-0.1.0-arm64.dmg)** · [All releases](https://github.com/unpaidfunds/orbit/releases)
+**[Download for macOS (Apple Silicon)](https://github.com/unpaidfunds/orbit/releases/latest/download/Orbit-0.1.0-arm64.dmg)** · **[Download for Windows (x64)](https://github.com/unpaidfunds/orbit/releases/latest/download/Orbit-0.1.0-win-x64.zip)** · [All releases](https://github.com/unpaidfunds/orbit/releases)
 
 ## Features
 
@@ -30,7 +30,9 @@ A trading journal for the Mac. Import your trades from a CSV or sync them from T
 1. Download the `.dmg` from Releases and drag **Orbit** into Applications.
 2. The app isn't signed by Apple yet: **right-click Orbit › Open › Open** the first time. If macOS still blocks it, go to System Settings › Privacy & Security › **Open Anyway**.
 
-Requires an Apple Silicon Mac. Your data stays on your device.
+**Windows:** unzip, keep the folder together and run **Orbit.exe**. SmartScreen may warn about an unknown publisher: **More info › Run anyway**.
+
+Requires an Apple Silicon Mac or 64-bit Windows 10/11. Your data stays on your device.
 
 ## Status
 
